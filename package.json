@@ -1,0 +1,10 @@
+{
+  "name": "roblox-key-validator",
+  "version": "1.0.0",
+  "description": "Валідація ключів для Roblox скрипта",
+  "main": "api/validate.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}

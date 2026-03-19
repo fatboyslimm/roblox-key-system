@@ -1,8 +1,1 @@
-{
-  "name": "roblox-key-system",
-  "version": "1.0.0",
-  "description": "Валідація ключів для Roblox",
-  "scripts": {
-    "dev": "vercel dev"
-  }
-}
+{ "name": "test" }
